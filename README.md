@@ -94,4 +94,4 @@ Me chamo Arthur Almeida de Souza, tenho 20 anos e sou natural do Tocantins. Atua
 ### Contato
 
 - Email: almeidaarthur128@gmail.com
-- [LinkedIn](https://linkedin.com/in/arthursouzadev)
+- [LinkedIn](https://linkedin.com/in/arthursouzs)
