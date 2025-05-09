@@ -1,69 +1,50 @@
 # 👨‍💻 Arthur Souza
 
-**Desenvolvedor Full Stack**
 
-Me chamo Arthur Almeida de Souza, tenho 20 anos e sou natural do Tocantins. Atualmente, estou cursando Engenharia de Software. Sempre fui apaixonado por tecnologia e decidi entrar para a área de desenvolvimento. Meu objetivo é me tornar um desenvolvedor Full Stack.
+<p align="left"> 
+ Me chamo Arthur Almeida de Souza, tenho 20 anos e sou natural do Tocantins. Atualmente, estou cursando Engenharia de Software. Sempre fui apaixonado por tecnologia e decidi entrar para a área de desenvolvimento. Meu objetivo é me tornar um desenvolvedor Full Stack.
+</p>
 
+<p align="left">
+  Entre em contato comigo nas plataformas abaixo: ⤵️
+</p>
+
+<p align="center">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=almeidaarthur128@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=arthursouzs" alt="LinkedIn"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=manzinidev" alt="Instagram"/></a>
+</p>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=4682B4&center=true&vCenter=true&random=false&width=435&lines=Desenvolvedor+Full+Stack;Estudante+de+Tecnologia" alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="center">
 </div>
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
-
-<table>
-  <tr>
-    <td valign="top">
-      <strong>Frontend</strong><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" alt="TypeScript"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="React"/>
-    </td>
-    <td valign="top">
-      <strong>Backend</strong><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" alt="Node.js"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" alt="Java"/>
-    </td>
-    <td valign="top">
-      <strong>Bancos de Dados</strong><br/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" alt="MySQL"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30" alt="SQLite"/>
-      <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="30" alt="SQL Server"/>
-    </td>
-  </tr>
-</table>
+## Tecnologias
+<code><img height="24" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></code>
+<code><img height="24" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></code>
+<code><img height="24" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/></code>
+<code><img height="24" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Nodejs"/></code>
+<code><img height="24" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></code>
+<code><img height="24" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></code>
+<code><img height="24" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/></code>
+<code><img height="24" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></code>
+<code><img height="24" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="Sqlite"/></code>
 
 ---
 
-### 📊 Estatísticas
+### 📊 Github Stats
 
 <div align="center">
-  <img 
-    alt="GitHub Stats" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=ArthurSouzaDev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
-  <img 
-    alt="Top Linguagens" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSouzaDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+ [![Arthur Souza](https://github-readme-stats.vercel.app/api?username=ArthurSouzaDev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Arthur Souza](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSouzaDev&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
-
-
-## 🌐 Conecte-se Comigo
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/arthursouzs/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:almeidaarthur128@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-4682B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
 
 
 <div align="center">
