@@ -1,29 +1,14 @@
-# 👨‍💻 Arthur Souza
 
-**`Desenvolvedor FullStack`**
+# Arthur Souza
 
-Me chamo Arthur Almeida de Souza, tenho 20 anos e sou natural de Tocantins.Atualmente, estou cursando Engenharia de Software. Sempre fui apaixonado por tecnologia, e decidi entrar para a área de desenvolvimento, pretendo me tornar um desenvolvedor Full Stack".
+**Desenvolvedor FullStack**
 
-<p align="left">
-    <a href="https://github.com/ArthurSouzaDev?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/ArthurSouzaDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/Larissakich?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/ArthurSouzaDev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+Me chamo Arthur Almeida de Souza, tenho 20 anos e sou natural do Tocantins. Atualmente, estou cursando Engenharia de Software. Sempre fui apaixonado por tecnologia e decidi entrar para a área de desenvolvimento. Meu objetivo é me tornar um desenvolvedor Full Stack.
+
+[![Total de estrelas](https://custom-icon-badges.demolab.com/github/stars/ArthurSouzaDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas)](https://github.com/ArthurSouzaDev?tab=repositories&sort=stargazers)
 
 ---
-
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -97,26 +82,16 @@ Me chamo Arthur Almeida de Souza, tenho 20 anos e sou natural de Tocantins.Atual
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
+---
 
-<br/>
-<br/>
+### Estatísticas
 
-### 📊 Estatísticas
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=ArthurSouzaDev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSouzaDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ArthurSouzaDev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+---
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSouzaDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+### Contato
 
-</p>
+- Email: almeidaarthur128@gmail.com
+- [LinkedIn](https://linkedin.com/in/arthursouzadev)
