@@ -1,97 +1,71 @@
+# 👨‍💻 Arthur Souza
 
-# Arthur Souza
-
-**Desenvolvedor FullStack**
+**Desenvolvedor Full Stack**
 
 Me chamo Arthur Almeida de Souza, tenho 20 anos e sou natural do Tocantins. Atualmente, estou cursando Engenharia de Software. Sempre fui apaixonado por tecnologia e decidi entrar para a área de desenvolvimento. Meu objetivo é me tornar um desenvolvedor Full Stack.
 
-[![Total de estrelas](https://custom-icon-badges.demolab.com/github/stars/ArthurSouzaDev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas)](https://github.com/ArthurSouzaDev?tab=repositories&sort=stargazers)
-
----
-### Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
----
-
-### Estatísticas
-
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=ArthurSouzaDev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSouzaDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=4682B4&center=true&vCenter=true&random=false&width=435&lines=Desenvolvedor+Full+Stack;Estudante+de+Tecnologia" alt="Typing SVG" />
+</div>
 
 ---
 
-### Contato
+### 🚀 Tecnologias e Ferramentas
 
-- Email: almeidaarthur128@gmail.com
-- [LinkedIn](https://linkedin.com/in/arthursouzs)
+<table>
+  <tr>
+    <td valign="top">
+      <strong>Frontend</strong><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" alt="TypeScript"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="React"/>
+    </td>
+    <td valign="top">
+      <strong>Backend</strong><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" alt="Node.js"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" alt="Java"/>
+    </td>
+    <td valign="top">
+      <strong>Bancos de Dados</strong><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" alt="MySQL"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30" alt="SQLite"/>
+      <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="30" alt="SQL Server"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Estatísticas
+
+<div align="center">
+  <img 
+    alt="GitHub Stats" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api?username=ArthurSouzaDev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+    alt="Top Linguagens" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSouzaDev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+</div>
+
+
+
+## 🌐 Conecte-se Comigo
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/arthursouzs/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:almeidaarthur128@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-4682B4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=footer"/>
+</div>
