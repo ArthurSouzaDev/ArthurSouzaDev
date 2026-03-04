@@ -45,9 +45,7 @@
 
 <div align="center">
 
- [![Arthur Souza](https://github-readme-stats.vercel.app/api?username=ArthurSouzaDev&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Arthur Souza](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurSouzaDev&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](https://raw.githubusercontent.com/ArthurSouzaDev/ArthurSouzaDev/main/assets/metrics.svg)
 </div>
 
 
