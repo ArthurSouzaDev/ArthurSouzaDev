@@ -2,7 +2,7 @@
 
 
 <p align="left"> 
- Me chamo Arthur Almeida de Souza, tenho 20 anos e sou natural do Tocantins. Atualmente, estou cursando Engenharia de Software. Sempre fui apaixonado por tecnologia e decidi entrar para a área de desenvolvimento. Meu objetivo é me tornar um desenvolvedor Full Stack.
+ Me chamo Arthur Almeida de Souza, tenho 21 anos e sou natural do Tocantins. Atualmente, estou cursando Engenharia de Software. Sempre fui apaixonado por tecnologia e decidi entrar para a área de desenvolvimento. Meu objetivo é me tornar um desenvolvedor Backend
 </p>
 
 <p align="left">
