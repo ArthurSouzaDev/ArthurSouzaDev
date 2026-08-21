@@ -45,10 +45,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ArthurSouzaDev/ArthurSouzaDev/main/assets/metrics.svg" width="46%" alt="Estatísticas do GitHub"/>
-<img src="https://raw.githubusercontent.com/ArthurSouzaDev/ArthurSouzaDev/main/assets/metrics.languages.svg" width="46%" alt="Linguagens mais utilizadas"/>
-
-<img src="https://raw.githubusercontent.com/ArthurSouzaDev/ArthurSouzaDev/main/assets/metrics.achievements.svg" width="70%" alt="Conquistas"/>
+<img src="https://raw.githubusercontent.com/ArthurSouzaDev/ArthurSouzaDev/main/assets/metrics.svg" width="52%" alt="Estatísticas, linguagens e conquistas do GitHub"/>
 
 </div>
 
