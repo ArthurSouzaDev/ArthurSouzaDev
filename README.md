@@ -1,4 +1,4 @@
-# 👨‍💻 Arthur Souza
+# Arthur Souza
 
 
 <p align="left"> 
@@ -6,11 +6,10 @@
 </p>
 
 <p align="left">
-  Entre em contato comigo nas plataformas abaixo: ⤵️
+  Entre em contato comigo nas plataformas abaixo:
 </p>
 
 <p align="center">
-</a>
 <a href="https://www.linkedin.com/in/arthursouzs/" title="LinkedIn" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -24,7 +23,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="center">
 </div>
 
----
+<img src="https://raw.githubusercontent.com/ArthurSouzaDev/ArthurSouzaDev/main/assets/strings.svg" width="100%" alt=""/>
 
 ## Tecnologias
 <code><img height="24" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></code>
@@ -39,16 +38,19 @@
 <code><img height="24" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/></code>
 <code><img height="24" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDb"/></code>
 <code><img height="24" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql"/></code>
----
 
-### 📊 Github Stats
+<img src="https://raw.githubusercontent.com/ArthurSouzaDev/ArthurSouzaDev/main/assets/strings.svg" width="100%" alt=""/>
+
+### GitHub Stats
 
 <div align="center">
 
-![Metrics](https://raw.githubusercontent.com/ArthurSouzaDev/ArthurSouzaDev/main/assets/metrics.svg)
+<img src="https://raw.githubusercontent.com/ArthurSouzaDev/ArthurSouzaDev/main/assets/metrics.svg" width="46%" alt="Estatísticas do GitHub"/>
+<img src="https://raw.githubusercontent.com/ArthurSouzaDev/ArthurSouzaDev/main/assets/metrics.languages.svg" width="46%" alt="Linguagens mais utilizadas"/>
+
+<img src="https://raw.githubusercontent.com/ArthurSouzaDev/ArthurSouzaDev/main/assets/metrics.achievements.svg" width="70%" alt="Conquistas"/>
+
 </div>
-
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=footer"/>
