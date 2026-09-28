@@ -2,7 +2,7 @@
 
 
 <p align="left"> 
- Me chamo Arthur Almeida de Souza, tenho 21 anos e sou natural do Tocantins. Atualmente, estou cursando Engenharia de Software. Sempre fui apaixonado por tecnologia e decidi entrar para a área de desenvolvimento. Meu objetivo é me tornar um desenvolvedor Backend
+ Me chamo Arthur Almeida de Souza, tenho 22 anos e sou natural do Tocantins. Atualmente, estou cursando Engenharia de Software. Sempre fui apaixonado por tecnologia e decidi entrar para a área de desenvolvimento. Meu objetivo é me tornar um desenvolvedor Backend
 </p>
 
 <p align="left">
@@ -16,7 +16,9 @@
 <a href="https://www.instagram.com/manzinidev/" title="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-
+<a href="https://arthursouzadev.com.br/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-000000?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfólio" />
+</a>
 </p>
 
 <div align="center">
@@ -38,15 +40,22 @@
 <code><img height="24" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/></code>
 <code><img height="24" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDb"/></code>
 <code><img height="24" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySql"/></code>
+<code><img height="24" src="https://img.shields.io/badge/nginx-00000F?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/></code>
+<code><img height="24" src="https://img.shields.io/badge/docker-00000F?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></code>
+
 
 <img src="https://raw.githubusercontent.com/ArthurSouzaDev/ArthurSouzaDev/main/assets/strings.svg" width="100%" alt=""/>
 
-### GitHub Stats
+## Estatísticas do GitHub
 
 <div align="center">
+  <img height="165" src="https://github-readme-stats-rho-wheat-26.vercel.app/api?username=ArthurSouzaDev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=blue-green" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-rho-wheat-26.vercel.app/api/top-langs/?username=ArthurSouzaDev&layout=compact&hide_border=true&theme=blue-green" alt="Top Langs" />
+</div>
 
-<img src="https://raw.githubusercontent.com/ArthurSouzaDev/ArthurSouzaDev/main/assets/metrics.svg" width="52%" alt="Estatísticas, linguagens e conquistas do GitHub"/>
-
+<div align="center">
+  <img height="170em" src="https://streak-stats.demolab.com?user=ArthurSouzaDev&theme=blue-green&hide_border=true" alt="GitHub Streak" />
+</div>
 </div>
 
 <div align="center">
